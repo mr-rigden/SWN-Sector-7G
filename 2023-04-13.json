@@ -1,0 +1,2280 @@
+{
+ "name": "7G",
+ "gmMode": true,
+ "systems": [
+  {
+   "x": 3,
+   "y": 9,
+   "name": "Urdenis",
+   "planets": [
+    {
+     "name": "Netor",
+     "atmosphere": "breathable",
+     "temperature": "cold (variable)",
+     "biosphere": "none native",
+     "gravity": "standard",
+     "population": "M 10+",
+     "techLevel": "3",
+     "tag1": "Cyclical Doom",
+     "tag2": "Perimeter Agency"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Cluster XH-76",
+     "type": "Asteroid Belt",
+     "occupants": "Lonely military patrol staff",
+     "situation": "Ancient ruins dot the rocks"
+    },
+    {
+     "name": "Tidmoshizkaw Ten",
+     "type": "Gas Giant Mine",
+     "occupants": "Scrappers in the ruined old mine",
+     "situation": "The workers are in revolt"
+    },
+    {
+     "name": "Ring WV-510",
+     "type": "Ancient orbital ruin",
+     "occupants": "Government researchers",
+     "situation": "Impending tech calamity"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "YELLOW DWARF",
+     "name": " a"
+    },
+    {
+     "type": "planet, 5 moons",
+     "name": " a I"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planetoid",
+     "name": " a II"
+    },
+    {
+     "type": "planet, 8 moons",
+     "name": " a III"
+    },
+    {
+     "type": "BROWN DWARF",
+     "name": " b"
+    }
+   ]
+  },
+  {
+   "x": 2,
+   "y": 5,
+   "name": "Mar",
+   "planets": [
+    {
+     "name": "Navul",
+     "atmosphere": "breathable",
+     "temperature": "warm (variable)",
+     "biosphere": "engineered",
+     "gravity": "standard",
+     "population": "M 1+",
+     "techLevel": "4",
+     "tag1": "Unbraked AI",
+     "tag2": "Utopia",
+     "notes": "Floating Cities",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "TMS UY-8",
+     "type": "Ancient orbital ruin",
+     "occupants": "Robots of dubious sentience",
+     "situation": "Impending tech calamity"
+    },
+    {
+     "name": "Defense Base ML-97",
+     "type": "Military Base",
+     "occupants": "Blustering, overbearing commander",
+     "situation": "Defences have critical weakness"
+    },
+    {
+     "name": "Science Center HP-0",
+     "type": "Research base",
+     "occupants": "Black-ops governmental researchers",
+     "situation": "Hideously immoral research"
+    },
+    {
+     "name": "Serres One",
+     "type": "Asteroid Base",
+     "occupants": "Pirates masquerading as otherwise",
+     "situation": "Life support is threatened"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED SUPERGIANT",
+     "name": ""
+    },
+    {
+     "type": "gas giant, 10 moons",
+     "name": " I"
+    },
+    {
+     "type": "planetoid",
+     "name": " II"
+    },
+    {
+     "type": "gas giant",
+     "name": " III"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planet, 5 moons",
+     "name": " IV"
+    },
+    {
+     "type": "gas giant, 12 moons",
+     "name": " V"
+    },
+    {
+     "type": "planetoid, 1 moon",
+     "name": " VI"
+    },
+    {
+     "type": "planetoid",
+     "name": " VII"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "gas giant, 2 moons",
+     "name": " VIII"
+    },
+    {
+     "type": "gas giant",
+     "name": " IX"
+    }
+   ]
+  },
+  {
+   "x": 3,
+   "y": 8,
+   "name": "Reqaathitior",
+   "planets": [
+    {
+     "name": "Noeamata",
+     "atmosphere": "invasive",
+     "temperature": "warm",
+     "biosphere": "human-miscible",
+     "gravity": "low",
+     "population": "M 10+",
+     "techLevel": "4",
+     "tag1": "Robots",
+     "tag2": "Freak Weather"
+    },
+    {
+     "name": "Ogloot",
+     "atmosphere": "corrosive",
+     "temperature": "temperate",
+     "biosphere": "immiscible",
+     "gravity": "standard",
+     "population": "K 10+",
+     "techLevel": "4",
+     "tag1": "Altered Humanity",
+     "tag2": "Societal Despair"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Deep-Space FLS-03",
+     "type": "Deep-space station",
+     "occupants": "Eccentric oligarch and minions",
+     "situation": "Black market for the elite"
+    },
+    {
+     "name": "Thalumshucnuul One",
+     "type": "Refueling Station",
+     "occupants": "Sordid purveyors of decadent fun",
+     "situation": "A ship is in severe distress"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED SUPERGIANT",
+     "name": ""
+    },
+    {
+     "type": "planetoid",
+     "name": " I"
+    },
+    {
+     "type": "gas giant, 3 moons",
+     "name": " II"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planetoid",
+     "name": " III"
+    }
+   ]
+  },
+  {
+   "x": 2,
+   "y": 7,
+   "name": "Markad",
+   "planets": [
+    {
+     "name": "Nusact",
+     "atmosphere": "breathable",
+     "temperature": "frozen",
+     "biosphere": "human-miscible",
+     "gravity": "low",
+     "population": "M 10+",
+     "techLevel": "1",
+     "tag1": "Night World",
+     "tag2": "Refugees"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Adkins Platform",
+     "type": "Gas Giant Mine",
+     "occupants": "Scrappers in the ruined old mine",
+     "situation": "The workers are in revolt"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED GIANT",
+     "name": ""
+    },
+    {
+     "type": "gas giant, 10 moons",
+     "name": " I"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    }
+   ]
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "name": "Helios",
+   "planets": [
+    {
+     "name": "Talos",
+     "atmosphere": "breathable",
+     "temperature": "temperate",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 100+",
+     "techLevel": "3",
+     "tag1": "Quarantined World",
+     "tag2": "Area 51",
+     "notes": "",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [],
+   "bodies": [
+    {
+     "type": "BLUE SUPERGIANT",
+     "name": ""
+    },
+    {
+     "type": "planetoid",
+     "name": " I"
+    }
+   ],
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "x": 5,
+   "y": 3,
+   "name": "Aldar",
+   "planets": [
+    {
+     "name": "Caaa",
+     "atmosphere": "corrosive",
+     "temperature": "temperate",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "alien civ.",
+     "techLevel": "5",
+     "tag1": "Quarantined World",
+     "tag2": "Fallen Hegemon",
+     "notes": "",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Abdullahi Base",
+     "type": "Remote moon base",
+     "occupants": "Unloucky corporate researchers",
+     "situation": "Criminals trying to take over"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED GIANT",
+     "name": ""
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "gas giant, 9 moons",
+     "name": " I"
+    },
+    {
+     "type": "construct",
+     "name": "*"
+    },
+    {
+     "type": "planetoid",
+     "name": " II"
+    },
+    {
+     "type": "gas giant, 12 moons",
+     "name": " III"
+    }
+   ]
+  },
+  {
+   "x": 2,
+   "y": 2,
+   "name": "Bineak",
+   "planets": [
+    {
+     "name": "Reribis",
+     "atmosphere": "breathable",
+     "temperature": "warm",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 10+",
+     "techLevel": "4",
+     "tag1": "Preceptor Archive",
+     "tag2": "Pretech Cultists",
+     "notes": "",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Ring FP-39",
+     "type": "Asteroid Belt",
+     "occupants": "Lonely military patrol staff",
+     "situation": "War between rival rocks"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED DWARF",
+     "name": ""
+    },
+    {
+     "type": "planet",
+     "name": " I"
+    },
+    {
+     "type": "gas giant, 2 moons",
+     "name": " II"
+    }
+   ]
+  },
+  {
+   "x": 6,
+   "y": 5,
+   "name": "Nunnin",
+   "planets": [
+    {
+     "name": "Steles",
+     "atmosphere": "breathable",
+     "temperature": "temperate",
+     "biosphere": "hybrid",
+     "gravity": "standard",
+     "population": "M 100+",
+     "techLevel": "3",
+     "tag1": "Hostile Space",
+     "tag2": "Pretech Cultists"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Supply Base KS-3007",
+     "type": "Refueling Station",
+     "occupants": "Half-crazed hermit caretaker",
+     "situation": "Has corrupt customs agents"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "YELLOW DWARF",
+     "name": ""
+    },
+    {
+     "type": "planet, 1 moon",
+     "name": " I"
+    },
+    {
+     "type": "gas giant, 3 moons",
+     "name": " II"
+    },
+    {
+     "type": "gas giant, 2 moons",
+     "name": " III"
+    },
+    {
+     "type": "planetoid",
+     "name": " IV"
+    },
+    {
+     "type": "planet, 1 moon",
+     "name": " V"
+    },
+    {
+     "type": "gas giant, 3 moons",
+     "name": " VI"
+    },
+    {
+     "type": "planetoid",
+     "name": " VII"
+    },
+    {
+     "type": "planet, 6 moons",
+     "name": " VIII"
+    },
+    {
+     "type": "planetoid",
+     "name": " IX"
+    },
+    {
+     "type": "planet",
+     "name": " X"
+    },
+    {
+     "type": "gas giant, 9 moons",
+     "name": " XI"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    }
+   ]
+  },
+  {
+   "x": 2,
+   "y": 6,
+   "name": "Odessa",
+   "planets": [
+    {
+     "name": "Planet Odessa",
+     "atmosphere": "breathable",
+     "temperature": "temperate",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "B 1+",
+     "techLevel": "4",
+     "tag1": "Heavy Industry",
+     "tag2": "Megacorps",
+     "notes": "",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Fuentebravia Platform",
+     "type": "Gas Giant Mine",
+     "occupants": "Impoverished seperatist group",
+     "situation": "Pirates secretly fuel here"
+    },
+    {
+     "name": "Habitat OJ-429",
+     "type": "Remote moon base",
+     "occupants": "Reclusive hermit genius",
+     "situation": "Rich but badly-protected"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BLUE GIANT",
+     "name": " a"
+    },
+    {
+     "type": "planetoid",
+     "name": " a I"
+    },
+    {
+     "type": "YELLOW DWARF",
+     "name": " b"
+    },
+    {
+     "type": "YELLOW DWARF",
+     "name": " c"
+    },
+    {
+     "type": "YELLOW DWARF",
+     "name": " d"
+    },
+    {
+     "type": "planet",
+     "name": " d I"
+    }
+   ],
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "x": 7,
+   "y": 4,
+   "name": "VU-54",
+   "planets": [
+    {
+     "name": "Kabdhil Awwa",
+     "atmosphere": "thick",
+     "temperature": "temperate",
+     "biosphere": "none native",
+     "gravity": "standard",
+     "population": "alien civ.",
+     "techLevel": "4",
+     "tag1": "Misandry/Misogyny",
+     "tag2": "Dying Race"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Andong Rock",
+     "type": "Asteroid Base",
+     "occupants": "Failed rebels from another world",
+     "situation": "Life support is threatened"
+    },
+    {
+     "name": "Serqet Mine",
+     "type": "Asteroid Base",
+     "occupants": "Zealous religious sectarians",
+     "situation": "Dug out something nasty"
+    },
+    {
+     "name": "Hadad Object",
+     "type": "Ancient orbital ruin",
+     "occupants": "Robots of dubious sentience",
+     "situation": "Meddling with strange tech"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BROWN DWARF",
+     "name": ""
+    },
+    {
+     "type": "gas giant, 8 moons",
+     "name": " I"
+    },
+    {
+     "type": "gas giant, 7 moons",
+     "name": " II"
+    },
+    {
+     "type": "gas giant, 5 moons",
+     "name": " III"
+    },
+    {
+     "type": "gas giant",
+     "name": " IV"
+    },
+    {
+     "type": "planet",
+     "name": " V"
+    },
+    {
+     "type": "planetoid",
+     "name": " VI"
+    }
+   ]
+  },
+  {
+   "x": 1,
+   "y": 8,
+   "name": "Tonevor",
+   "planets": [
+    {
+     "name": "New Tabuk",
+     "atmosphere": "breathable",
+     "temperature": "burning",
+     "biosphere": "human-miscible",
+     "gravity": "low",
+     "population": "M 10+",
+     "techLevel": "4",
+     "tag1": "Unbraked AI",
+     "tag2": "Great Work"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Object MIT-939",
+     "type": "Ancient orbital ruin",
+     "occupants": "Heirs of the original alien builders",
+     "situation": "Impending tech calamity"
+    },
+    {
+     "name": "Ring X-3",
+     "type": "Asteroid Belt",
+     "occupants": "Grizzled belter mine laborers",
+     "situation": "Foreign spy ships hide here"
+    },
+    {
+     "name": "Defense Base RCD-62",
+     "type": "Military Base",
+     "occupants": "Training academy",
+     "situation": "Besieged, cut off from supplies"
+    },
+    {
+     "name": "Volgograd Trading Post",
+     "type": "Refueling Station",
+     "occupants": "Sordid purveyors of decadent fun",
+     "situation": "Has corrupt customs agents"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BLUE GIANT",
+     "name": " a"
+    },
+    {
+     "type": "planet",
+     "name": " a I"
+    },
+    {
+     "type": "planet, 1 moon",
+     "name": " a II"
+    },
+    {
+     "type": "gas giant, 6 moons",
+     "name": " a III"
+    },
+    {
+     "type": "gas giant, 12 moons",
+     "name": " a IV"
+    },
+    {
+     "type": "planetoid, 4 moons",
+     "name": " a V"
+    },
+    {
+     "type": "planet, 1 moon",
+     "name": " a VI"
+    },
+    {
+     "type": "BROWN DWARF",
+     "name": " b"
+    },
+    {
+     "type": "planet, 1 moon",
+     "name": " b I"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planetoid",
+     "name": " b II"
+    }
+   ]
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "name": "Rirela",
+   "planets": [
+    {
+     "name": "Baikua",
+     "atmosphere": "breathable",
+     "temperature": "temperate",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 10+",
+     "techLevel": "3",
+     "tag1": "Utopia",
+     "tag2": "Robots"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Kedemah Station",
+     "type": "Deep-space station",
+     "occupants": "Eccentric oligarch and minions",
+     "situation": "Systems breaking down"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "YELLOW DWARF",
+     "name": ""
+    },
+    {
+     "type": "planetoid",
+     "name": " I"
+    },
+    {
+     "type": "planet, 7 moons",
+     "name": " II"
+    },
+    {
+     "type": "gas giant",
+     "name": " III"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planet",
+     "name": " IV"
+    },
+    {
+     "type": "planetoid, 5 moons",
+     "name": " V"
+    },
+    {
+     "type": "anomaly",
+     "name": "*"
+    },
+    {
+     "type": "anomaly",
+     "name": "*"
+    }
+   ]
+  },
+  {
+   "x": 3,
+   "y": 5,
+   "name": "Gandril",
+   "planets": [
+    {
+     "name": "Hitiot",
+     "atmosphere": "corrosive",
+     "temperature": "temperate",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 1+",
+     "techLevel": "3",
+     "tag1": "Civil War",
+     "tag2": "Trade Hub",
+     "notes": "",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "North Star Fuel Ring WV-510",
+     "type": "Refueling station",
+     "occupants": "Brainless automated vendors",
+     "situation": "A ship is in severe distress"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED SUPERGIANT",
+     "name": ""
+    },
+    {
+     "type": "gas giant",
+     "name": " I"
+    },
+    {
+     "type": "gas giant",
+     "name": " II"
+    }
+   ],
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "x": 1,
+   "y": 7,
+   "name": "TH-7189",
+   "planets": [
+    {
+     "name": "Thediak",
+     "atmosphere": "breathable",
+     "temperature": "burning",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 1+",
+     "techLevel": "4",
+     "tag1": "Preceptor Archive",
+     "tag2": "Tyranny"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Masqat Outpost",
+     "type": "Remote moon base",
+     "occupants": "Remnants of a failed colony",
+     "situation": "Rich but badly-protected"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED DWARF",
+     "name": ""
+    },
+    {
+     "type": "planetoid",
+     "name": " I"
+    }
+   ]
+  },
+  {
+   "x": 5,
+   "y": 9,
+   "name": "L-0",
+   "planets": [
+    {
+     "name": "New Codiiwe",
+     "atmosphere": "breathable",
+     "temperature": "cold (variable)",
+     "biosphere": "immiscible",
+     "gravity": "low",
+     "population": "K 100+",
+     "techLevel": "4",
+     "tag1": "Tomb World",
+     "tag2": "Revanchists"
+    },
+    {
+     "name": "Naraar",
+     "atmosphere": "breathable",
+     "temperature": "temperate",
+     "biosphere": "immiscible",
+     "gravity": "low",
+     "population": "K 100+",
+     "techLevel": "4",
+     "tag1": "Bubble Cities",
+     "tag2": "Anthropomorphs"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Tsuchiura Platform",
+     "type": "Gas Giant Mine",
+     "occupants": "Miserable gas-miner slaves or serfs",
+     "situation": "Pirates secretly fuel here"
+    },
+    {
+     "name": "Nedoariqunad Trading Post",
+     "type": "Refueling Station",
+     "occupants": "Extortionate corporate minions",
+     "situation": "Has corrupt customs agents"
+    },
+    {
+     "name": "Ruins UI-069",
+     "type": "Ancient orbital ruin",
+     "occupants": "Military quarantine enforcers",
+     "situation": "Impending tech calamity"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BLUE SUPERGIANT",
+     "name": ""
+    },
+    {
+     "type": "gas giant, 8 moons",
+     "name": " I"
+    },
+    {
+     "type": "planetoid",
+     "name": " II"
+    },
+    {
+     "type": "planetoid",
+     "name": " III"
+    },
+    {
+     "type": "gas giant, 9 moons",
+     "name": " IV"
+    }
+   ]
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "name": "BX-86",
+   "planets": [
+    {
+     "name": "Yirgaeeq",
+     "atmosphere": "breathable",
+     "temperature": "temperate",
+     "biosphere": "human-miscible",
+     "gravity": "high",
+     "population": "M 10+",
+     "techLevel": "4",
+     "tag1": "Trade Hub",
+     "tag2": "Rigid Culture"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Pandey Eight",
+     "type": "Gas Giant Mine",
+     "occupants": "Scientists studying the native life",
+     "situation": "They need vital supplies"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED GIANT",
+     "name": ""
+    },
+    {
+     "type": "gas giant, 2 moons",
+     "name": " I"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "gas giant, 3 moons",
+     "name": " II"
+    },
+    {
+     "type": "gas giant, 4 moons",
+     "name": " III"
+    },
+    {
+     "type": "planetoid",
+     "name": " IV"
+    },
+    {
+     "type": "planetoid",
+     "name": " V"
+    },
+    {
+     "type": "planet",
+     "name": " VI"
+    },
+    {
+     "type": "gas giant, 2 moons",
+     "name": " VII"
+    },
+    {
+     "type": "planet, 5 moons",
+     "name": " VIII"
+    },
+    {
+     "type": "planetoid",
+     "name": " IX"
+    },
+    {
+     "type": "gas giant, 4 moons",
+     "name": " X"
+    },
+    {
+     "type": "gas giant, 3 moons",
+     "name": " XI"
+    }
+   ]
+  },
+  {
+   "x": 4,
+   "y": 8,
+   "name": "FY-35",
+   "planets": [
+    {
+     "name": "Owe",
+     "atmosphere": "breathable",
+     "temperature": "warm",
+     "biosphere": "human-miscible",
+     "gravity": "high",
+     "population": "M 1+",
+     "techLevel": "3",
+     "tag1": "Psionics Worship",
+     "tag2": "Mandate Base"
+    }
+   ],
+   "pointsOfInterest": [],
+   "bodies": [
+    {
+     "type": "WHITE DWARF",
+     "name": ""
+    },
+    {
+     "type": "planetoid",
+     "name": " I"
+    },
+    {
+     "type": "planet",
+     "name": " II"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "gas giant, 11 moons",
+     "name": " III"
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " IV"
+    },
+    {
+     "type": "planet",
+     "name": " V"
+    },
+    {
+     "type": "construct",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planetoid",
+     "name": " VI"
+    },
+    {
+     "type": "planet",
+     "name": " VII"
+    }
+   ]
+  },
+  {
+   "x": 6,
+   "y": 7,
+   "name": "SSW-0014 Minor",
+   "planets": [],
+   "pointsOfInterest": [
+    {
+     "name": "Cancer Depot",
+     "type": "Military Base",
+     "occupants": "Hypervigilant Military AI",
+     "situation": "The commander has been subverted"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "YELLOW DWARF",
+     "name": " a"
+    },
+    {
+     "type": "planetoid, 3 moons",
+     "name": " a I"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planet",
+     "name": " a II"
+    },
+    {
+     "type": "gas giant, 5 moons",
+     "name": " a III"
+    },
+    {
+     "type": "gas giant, 3 moons",
+     "name": " a IV"
+    },
+    {
+     "type": "RED DWARF",
+     "name": " b"
+    },
+    {
+     "type": "gas giant, 6 moons",
+     "name": " b I"
+    },
+    {
+     "type": "RED DWARF",
+     "name": " c"
+    },
+    {
+     "type": "planet, 8 moons",
+     "name": " c I"
+    },
+    {
+     "type": "gas giant",
+     "name": " c II"
+    }
+   ]
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "name": "Nidor Minor",
+   "planets": [
+    {
+     "name": "Kalabaejo",
+     "atmosphere": "breathable",
+     "temperature": "cold (variable)",
+     "biosphere": "none native",
+     "gravity": "nil",
+     "population": "M 1+",
+     "techLevel": "3",
+     "tag1": "Alien Ruins",
+     "tag2": "Robots"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Defense Base I-15",
+     "type": "Military Base",
+     "occupants": "Bored servicemen at a \"dead-end\" assignment",
+     "situation": "Besieged, cut off from supplies"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "YELLOW DWARF",
+     "name": ""
+    },
+    {
+     "type": "planetoid, 5 moons",
+     "name": " I"
+    },
+    {
+     "type": "gas giant, 4 moons",
+     "name": " II"
+    },
+    {
+     "type": "gas giant",
+     "name": " III"
+    },
+    {
+     "type": "planetoid",
+     "name": " IV"
+    },
+    {
+     "type": "construct",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planet",
+     "name": " V"
+    },
+    {
+     "type": "anomaly",
+     "name": "*"
+    }
+   ]
+  },
+  {
+   "x": 3,
+   "y": 3,
+   "name": "Payhichiox",
+   "planets": [
+    {
+     "name": "Marhain",
+     "atmosphere": "breathable",
+     "temperature": "cold",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 100+",
+     "techLevel": "4+",
+     "tag1": "Sole Supplier",
+     "tag2": "Local Tech"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Barium Outpost",
+     "type": "Refueling Station",
+     "occupants": "Sordid purveyors of decadent fun",
+     "situation": "A ship is in severe distress"
+    },
+    {
+     "name": "Cluster Y-406",
+     "type": "Asteroid Belt",
+     "occupants": "Pirates hiding out among the rocks",
+     "situation": "Gold rush for new minerals"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BROWN DWARF",
+     "name": ""
+    },
+    {
+     "type": "planetoid, 4 moons",
+     "name": " I"
+    },
+    {
+     "type": "gas giant",
+     "name": " II"
+    },
+    {
+     "type": "planet, 7 moons",
+     "name": " III"
+    }
+   ]
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "name": "Ruhcan",
+   "planets": [
+    {
+     "name": "Neial",
+     "atmosphere": "breathable",
+     "temperature": "cold",
+     "biosphere": "hybrid",
+     "gravity": "low",
+     "population": "failed colony",
+     "techLevel": "1",
+     "tag1": "Zombies",
+     "tag2": "Tyranny"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Platform E-8",
+     "type": "Deep-space station",
+     "occupants": "Secretive military observers",
+     "situation": "Vault for dangerous pretech"
+    },
+    {
+     "name": "Lovato Two",
+     "type": "Military Base",
+     "occupants": "Hypervigilant Military AI",
+     "situation": "Defences have critical weakness"
+    },
+    {
+     "name": "Outpost M-8",
+     "type": "Gas Giant Mine",
+     "occupants": "Impoverished seperatist group",
+     "situation": "They need vital supplies"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED SUPERGIANT",
+     "name": ""
+    },
+    {
+     "type": "planet",
+     "name": " I"
+    },
+    {
+     "type": "construct",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planet, 2 moons",
+     "name": " II"
+    },
+    {
+     "type": "anomaly",
+     "name": "*"
+    },
+    {
+     "type": "gas giant, 2 moons",
+     "name": " III"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "gas giant, 7 moons",
+     "name": " IV"
+    },
+    {
+     "type": "planet, 1 moon",
+     "name": " V"
+    },
+    {
+     "type": "planetoid",
+     "name": " VI"
+    }
+   ]
+  },
+  {
+   "x": 4,
+   "y": 6,
+   "name": "Fareshias",
+   "planets": [
+    {
+     "name": "Okje",
+     "atmosphere": "breathable",
+     "temperature": "temperate",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "alien civ.",
+     "techLevel": "4",
+     "tag1": "Xenophiles",
+     "tag2": "Sole Supplier",
+     "notes": "",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Bovanena Platform",
+     "type": "Gas Giant Mine",
+     "occupants": "Impoverished seperatist group",
+     "situation": "The workers are in revolt"
+    },
+    {
+     "name": "Eotastledirut Station",
+     "type": "Ancient orbital ruin",
+     "occupants": "Government researchers",
+     "situation": "Trying to stop it awakening"
+    },
+    {
+     "name": "Starbase X-0",
+     "type": "Deep-space station",
+     "occupants": "Eccentric oligarch and minions",
+     "situation": "Systems breaking down"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BLUE GIANT",
+     "name": ""
+    },
+    {
+     "type": "planet, 5 moons",
+     "name": " I"
+    },
+    {
+     "type": "gas giant",
+     "name": " II"
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " III"
+    },
+    {
+     "type": "planet, 1 moon",
+     "name": " IV"
+    },
+    {
+     "type": "planetoid",
+     "name": " V"
+    },
+    {
+     "type": "planet",
+     "name": " VI"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planetoid",
+     "name": " VII"
+    }
+   ]
+  },
+  {
+   "x": 7,
+   "y": 8,
+   "name": "SSW-0014 Major",
+   "planets": [
+    {
+     "name": "Tithum",
+     "atmosphere": "breathable",
+     "temperature": "warm",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 1+",
+     "techLevel": "1",
+     "tag1": "Anthropomorphs",
+     "tag2": "Area 51",
+     "notes": "",
+     "privateNotes": ""
+    }
+   ],
+   "pointsOfInterest": [],
+   "bodies": [
+    {
+     "type": "BLUE GIANT",
+     "name": ""
+    },
+    {
+     "type": "gas giant",
+     "name": " I"
+    },
+    {
+     "type": "planet, 8 moons",
+     "name": " II"
+    },
+    {
+     "type": "planetoid",
+     "name": " III"
+    },
+    {
+     "type": "planet",
+     "name": " IV"
+    },
+    {
+     "type": "construct",
+     "name": "*"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planet",
+     "name": " V"
+    },
+    {
+     "type": "planetoid, 1 moon",
+     "name": " VI"
+    },
+    {
+     "type": "planet, 4 moons",
+     "name": " VII"
+    }
+   ]
+  },
+  {
+   "x": 5,
+   "y": 6,
+   "name": "Suersteruik",
+   "planets": [
+    {
+     "name": "Tugjin",
+     "atmosphere": "breathable",
+     "temperature": "cold (variable)",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "M 10+",
+     "techLevel": "3",
+     "tag1": "Cheap Life",
+     "tag2": "Psionics Worship"
+    }
+   ],
+   "pointsOfInterest": [],
+   "bodies": [
+    {
+     "type": "YELLOW DWARF",
+     "name": ""
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " I"
+    },
+    {
+     "type": "gas giant, 2 moons",
+     "name": " II"
+    },
+    {
+     "type": "planetoid",
+     "name": " III"
+    },
+    {
+     "type": "planetoid",
+     "name": " IV"
+    },
+    {
+     "type": "gas giant",
+     "name": " V"
+    },
+    {
+     "type": "gas giant, 7 moons",
+     "name": " VI"
+    },
+    {
+     "type": "planetoid",
+     "name": " VII"
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " VIII"
+    }
+   ]
+  },
+  {
+   "x": 2,
+   "y": 4,
+   "name": "Steheeba",
+   "planets": [
+    {
+     "name": "Ieiol",
+     "atmosphere": "breathable",
+     "temperature": "warm (variable)",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "outpost",
+     "techLevel": "1",
+     "tag1": "Beastmasters",
+     "tag2": "Civil War"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Outpost RJA-7",
+     "type": "Asteroid Base",
+     "occupants": "Wage-slave corporate miners",
+     "situation": "Hit a priceless vein of ore"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "YELLOW DWARF",
+     "name": ""
+    },
+    {
+     "type": "gas giant, 3 moons",
+     "name": " I"
+    },
+    {
+     "type": "planet, 3 moons",
+     "name": " II"
+    },
+    {
+     "type": "planetoid",
+     "name": " III"
+    },
+    {
+     "type": "gas giant",
+     "name": " IV"
+    },
+    {
+     "type": "gas giant, 4 moons",
+     "name": " V"
+    },
+    {
+     "type": "gas giant, 8 moons",
+     "name": " VI"
+    }
+   ]
+  },
+  {
+   "x": 2,
+   "y": 3,
+   "name": "Nidor Major",
+   "planets": [
+    {
+     "name": "Iq Jineadias",
+     "atmosphere": "invasive",
+     "temperature": "temperate",
+     "biosphere": "microbial",
+     "gravity": "standard",
+     "population": "M 10+",
+     "techLevel": "0",
+     "tag1": "Desert World",
+     "tag2": "Tyranny"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Asteroid Base GF-074",
+     "type": "Asteroid Base",
+     "occupants": "Pirates masquerading as otherwise",
+     "situation": "Hit a priceless vein of ore"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED GIANT",
+     "name": ""
+    },
+    {
+     "type": "planetoid, 1 moon",
+     "name": " I"
+    },
+    {
+     "type": "planetoid",
+     "name": " II"
+    },
+    {
+     "type": "planet",
+     "name": " III"
+    },
+    {
+     "type": "planetoid",
+     "name": " IV"
+    },
+    {
+     "type": "gas giant",
+     "name": " V"
+    },
+    {
+     "type": "planetoid",
+     "name": " VI"
+    },
+    {
+     "type": "gas giant, 4 moons",
+     "name": " VII"
+    },
+    {
+     "type": "gas giant, 10 moons",
+     "name": " VIII"
+    },
+    {
+     "type": "planetoid",
+     "name": " IX"
+    },
+    {
+     "type": "planetoid",
+     "name": " X"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    }
+   ]
+  },
+  {
+   "x": 2,
+   "y": 9,
+   "name": "Loesan",
+   "planets": [
+    {
+     "name": "Meshoshau",
+     "atmosphere": "breathable",
+     "temperature": "cold (variable)",
+     "biosphere": "human-miscible",
+     "gravity": "standard",
+     "population": "K 10+",
+     "techLevel": "4",
+     "tag1": "Freak Weather",
+     "tag2": "Holy War"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Volohume Three",
+     "type": "Gas Giant Mine",
+     "occupants": "Strange robots and their overseers",
+     "situation": "Things are emerging below"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "RED DWARF",
+     "name": ""
+    },
+    {
+     "type": "planet",
+     "name": " I"
+    },
+    {
+     "type": "planet",
+     "name": " II"
+    },
+    {
+     "type": "planet",
+     "name": " III"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    }
+   ]
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "name": "Aviratz",
+   "planets": [
+    {
+     "name": "Jacksapega",
+     "atmosphere": "breathable",
+     "temperature": "cold",
+     "biosphere": "immiscible",
+     "gravity": "standard",
+     "population": "M 1+",
+     "techLevel": "2",
+     "tag1": "Pretech Cultists",
+     "tag2": "Bubble Cities"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Lunar Base Adwa",
+     "type": "Remote moon base",
+     "occupants": "Reclusive hermit genius",
+     "situation": "Criminals trying to take over"
+    },
+    {
+     "name": "Tian Outpost",
+     "type": "Military Base",
+     "occupants": "Training academy",
+     "situation": "Half-destroyed patrol ship limps home, the first sign of a terrible threat"
+    },
+    {
+     "name": "Station LJ-006",
+     "type": "Remote moon base",
+     "occupants": "Lonely overseers and robot miners",
+     "situation": "Rich but badly-protected"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BROWN DWARF",
+     "name": ""
+    },
+    {
+     "type": "planet",
+     "name": " I"
+    },
+    {
+     "type": "planet",
+     "name": " II"
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " III"
+    },
+    {
+     "type": "gas giant",
+     "name": " IV"
+    },
+    {
+     "type": "planet",
+     "name": " V"
+    },
+    {
+     "type": "construct",
+     "name": "*"
+    },
+    {
+     "type": "planetoid",
+     "name": " VI"
+    },
+    {
+     "type": "planet",
+     "name": " VII"
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " VIII"
+    },
+    {
+     "type": "planet",
+     "name": " IX"
+    },
+    {
+     "type": "planet",
+     "name": " X"
+    }
+   ]
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "name": "Yildus",
+   "planets": [
+    {
+     "name": "Nijjaf Pol",
+     "atmosphere": "airless or thin",
+     "temperature": "cold (variable)",
+     "biosphere": "human-miscible",
+     "gravity": "zero",
+     "population": "M 10+",
+     "techLevel": "4",
+     "tag1": "Hostile Space",
+     "tag2": "Revolutionaries"
+    }
+   ],
+   "pointsOfInterest": [
+    {
+     "name": "Station NC-9797",
+     "type": "Refueling Station",
+     "occupants": "Sordid purveyors of decadent fun",
+     "situation": "Has corrupt customs agents"
+    },
+    {
+     "name": "Yuxi Outpost",
+     "type": "Remote moon base",
+     "occupants": "Unloucky corporate researchers",
+     "situation": "Desperate for vital supplies"
+    },
+    {
+     "name": "Chikusei Platform",
+     "type": "Gas Giant Mine",
+     "occupants": "Impoverished seperatist group",
+     "situation": "They need vital supplies"
+    }
+   ],
+   "bodies": [
+    {
+     "type": "BLUE GIANT",
+     "name": ""
+    },
+    {
+     "type": "planetoid",
+     "name": " I"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " II"
+    },
+    {
+     "type": "anomaly",
+     "name": "*"
+    },
+    {
+     "type": "planet",
+     "name": " III"
+    },
+    {
+     "type": "gas giant, 1 moon",
+     "name": " IV"
+    },
+    {
+     "type": "planet, 3 moons",
+     "name": " V"
+    },
+    {
+     "type": "planet",
+     "name": " VI"
+    },
+    {
+     "type": "asteroid belt",
+     "name": "*"
+    },
+    {
+     "type": "planet, 3 moons",
+     "name": " VII"
+    }
+   ]
+  }
+ ],
+ "corporations": [
+  {
+   "name": "Red Sun Trading",
+   "markets": "Illicit Drugs, Piracy, Snacks",
+   "ownership": "publicly traded",
+   "strategy": "shell/front",
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "name": "Kou Collections",
+   "markets": "Piracy",
+   "ownership": "founder(s)",
+   "strategy": "resource monopolization"
+  },
+  {
+   "name": "Manticore Industries",
+   "markets": "Robotics, Asteroid Mining",
+   "ownership": "publicly traded",
+   "strategy": "cartel formation",
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "name": "Spectral Company",
+   "markets": "Assasination, Piracy",
+   "ownership": "publicly traded",
+   "strategy": "quality"
+  },
+  {
+   "name": "Evocative Limited",
+   "markets": "Aeronautics",
+   "ownership": "state-owned",
+   "strategy": "undercutting"
+  },
+  {
+   "name": "Srinivasan Guild",
+   "markets": "Fishing",
+   "ownership": "publicly traded",
+   "strategy": "quality"
+  },
+  {
+   "name": "Splinesoft Foundation",
+   "markets": "Cybernetics, Aeronautics, Snacks, Gemstones",
+   "ownership": "subsidiary",
+   "strategy": "production investment"
+  },
+  {
+   "name": "Nebula Megacorp",
+   "markets": "Bootlegging, Maltech",
+   "ownership": "publicly traded",
+   "strategy": "marketing"
+  },
+  {
+   "name": "Starfire Organization",
+   "markets": "Snacks, Projectile Guns, Prostitution",
+   "ownership": "publicly traded",
+   "strategy": "marketing"
+  },
+  {
+   "name": "Compass Pain Management",
+   "markets": "Illicit Drugs",
+   "ownership": "state-owned",
+   "strategy": "market manipulation"
+  },
+  {
+   "name": "Striker Alliance",
+   "markets": "Bootlegging",
+   "ownership": "publicly traded",
+   "strategy": "marketing"
+  },
+  {
+   "name": "Wayfarer Agriculture",
+   "markets": "Agriculture, Art",
+   "ownership": "subsidiary",
+   "strategy": "cartel formation"
+  },
+  {
+   "name": "Mimir-Daybreak Union",
+   "markets": "Heavy Weapons, Security",
+   "ownership": "consortium/cartel",
+   "strategy": "shell/front"
+  },
+  {
+   "name": "Frontier Excavations",
+   "markets": "Xenotech, Prisons, Entertainment, Espionage, Metallurgy, Pretech",
+   "ownership": "subsidiary",
+   "strategy": "market discovery"
+  },
+  {
+   "name": "Effervescent Gravtech",
+   "markets": "Grav Vehicles, Electronics, Robotics",
+   "ownership": "state-owned",
+   "strategy": "cartel formation"
+  },
+  {
+   "name": "Hamidou Company",
+   "markets": "Piracy",
+   "ownership": "family",
+   "strategy": "R&D"
+  },
+  {
+   "name": "United Laboratories",
+   "markets": "Aeronautics, Shipyards, Pharmaceuticals, Plastics, Astrotech, Engineering",
+   "ownership": "single majority stockholder",
+   "strategy": "hostile takeovers"
+  },
+  {
+   "name": "Girei Scientific",
+   "markets": "Journalism, Exploration, Gambling",
+   "ownership": "consortium/cartel",
+   "strategy": "racketeering"
+  },
+  {
+   "name": "Polytron-6 Jails",
+   "markets": "Prisons, Asteroid Mining",
+   "ownership": "consortium/cartel",
+   "strategy": "marketing"
+  },
+  {
+   "name": "Kutô Operations",
+   "markets": "Entertainment",
+   "ownership": "publicly traded",
+   "strategy": "cartel formation"
+  },
+  {
+   "name": "Catylist Psychotropics",
+   "markets": "Illicit Drugs, Telecoms, Fuel Refining",
+   "ownership": "family",
+   "strategy": "hostile takeovers"
+  },
+  {
+   "name": "North Star Fuel",
+   "markets": "Fuel",
+   "ownership": "consortium/cartel",
+   "strategy": "market manipulation",
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "name": "Factorial Zaibatsu",
+   "markets": "Telecoms, Law Enforcement",
+   "ownership": "family",
+   "strategy": "emerging market"
+  },
+  {
+   "name": "Brady Organization",
+   "markets": "Security",
+   "ownership": "publicly traded",
+   "strategy": "undercutting"
+  },
+  {
+   "name": "Neogen Scientific",
+   "markets": "Assasination, Entertainment, Piracy, Computer Hardware",
+   "ownership": "publicly traded",
+   "strategy": "shell/front"
+  },
+  {
+   "name": "Frontier Alliance",
+   "markets": "Programming",
+   "ownership": "founder(s)",
+   "strategy": "litigation"
+  },
+  {
+   "name": "Panstellar Corp.",
+   "markets": "Bootlegging, Journalism",
+   "ownership": "state-owned",
+   "strategy": "production investment"
+  },
+  {
+   "name": "Kay Incorporated",
+   "markets": "Pharmaceuticals, Mercenary Work",
+   "ownership": "state-owned",
+   "strategy": "marketing"
+  },
+  {
+   "name": "Reynolds Weapons",
+   "markets": "Energy Weapons",
+   "ownership": "subsidiary",
+   "strategy": "rent-seeking"
+  },
+  {
+   "name": "Santos Acquisitions",
+   "markets": "Assasination, Construction, Telecoms, Livestock",
+   "ownership": "state-owned",
+   "strategy": "cartel formation"
+  }
+ ],
+ "religions": [
+  {
+   "name": "New Book Paganism",
+   "leadership": "No Hierarchy",
+   "doctrine": "missionary work & symbolism"
+  },
+  {
+   "name": "Schism Hinduism",
+   "leadership": "Democracy",
+   "doctrine": "death & nature"
+  },
+  {
+   "name": "Holy Family Zoroasterism",
+   "leadership": "Democracy",
+   "doctrine": "nature & knowledge"
+  },
+  {
+   "name": "Neofundamentalist Confucanism",
+   "leadership": "Council",
+   "doctrine": "pilgrammage & art"
+  },
+  {
+   "name": "Quietist Buddism",
+   "leadership": "Patriarchy/Matriarchy",
+   "doctrine": "diet & icons",
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "name": "Syncretic Judaism/Taoism",
+   "leadership": "Council",
+   "doctrine": "clothing & rituals"
+  },
+  {
+   "name": "Holy Family Ideology",
+   "leadership": "Patriarchy/Matriarchy",
+   "doctrine": "eschatology & music",
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "name": "Quietist Confucanism",
+   "leadership": "Patriarchy/Matriarchy",
+   "doctrine": "the afterlife & gender"
+  },
+  {
+   "name": "New Prophet Protestantism",
+   "leadership": "Patriarchy/Matriarchy",
+   "doctrine": "relics & aliens"
+  },
+  {
+   "name": "Quietist Eastern Orthodoxy",
+   "leadership": "Council",
+   "doctrine": "symbolism & nature"
+  },
+  {
+   "name": "Neofundamentalist Ideology",
+   "leadership": "Council",
+   "doctrine": "pilgrammage & violence"
+  },
+  {
+   "name": "Holy Family Islam",
+   "leadership": "Council",
+   "doctrine": "nature & missionary work"
+  },
+  {
+   "name": "New Prophet Taoism",
+   "leadership": "Patriarchy/Matriarchy",
+   "doctrine": "music & death"
+  }
+ ],
+ "politicalGroups": [
+  {
+   "name": "Holy Institute",
+   "leadership": "Outcasts"
+  },
+  {
+   "name": "Radical Fellowship",
+   "leadership": "Outcasts"
+  },
+  {
+   "name": "Victory Conspiracy",
+   "leadership": "Pious"
+  },
+  {
+   "name": "Liberty Arm",
+   "leadership": "Pious"
+  },
+  {
+   "name": "Order Pact",
+   "leadership": "Proletariat"
+  },
+  {
+   "name": "Viridian Western Knife",
+   "leadership": "Social Elite"
+  },
+  {
+   "name": "Knights Of Liberty",
+   "leadership": "Intellectuals"
+  },
+  {
+   "name": "Mibzar Combine",
+   "leadership": "Urban Dwellers"
+  },
+  {
+   "name": "Progressive Unity Gang",
+   "leadership": "Urban Dwellers"
+  },
+  {
+   "name": "Perpetual Resistance Of Charity",
+   "leadership": "Bourgeoisie"
+  },
+  {
+   "name": "Cintron's Sisterhood",
+   "leadership": "Bourgeoisie"
+  },
+  {
+   "name": "Royal Alliance",
+   "leadership": "Military"
+  },
+  {
+   "name": "Bureau Of Freedom",
+   "leadership": "Pious",
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "name": "Men's Bureau",
+   "leadership": "Social Elite"
+  },
+  {
+   "name": "Pact Of Order",
+   "leadership": "Proletariat"
+  },
+  {
+   "name": "Unified Head",
+   "leadership": "Rural Dwellers"
+  },
+  {
+   "name": "Jeongeup Sword",
+   "leadership": "Pious"
+  },
+  {
+   "name": "Health League",
+   "leadership": "Proletariat"
+  },
+  {
+   "name": "Duty Committee",
+   "leadership": "Military"
+  },
+  {
+   "name": "Democratic Conspiracy",
+   "leadership": "Intellectuals"
+  }
+ ],
+ "aliens": [
+  {
+   "name": "Nietmorph",
+   "type": "insectile/aquatic",
+   "body": "Emits powerful pheromones; Swims by means of water-jet propulsion",
+   "lenses": "Journeying & Curiosity",
+   "government": "Monarchy"
+  },
+  {
+   "name": "Chi",
+   "type": "aquatic",
+   "body": "Amphibious; Swims by means of water-jet propulsion",
+   "lenses": "Tribalism & Pacifism",
+   "government": "Multipolar (Tribalism, Monarchy)"
+  },
+  {
+   "name": "Oshhu",
+   "type": "reptillian",
+   "body": "Bellowing vocalization; Hibernates in caves and undisturbed nooks",
+   "lenses": "Journeying",
+   "government": "Multipolar (Tribalism, Oligarchy)"
+  },
+  {
+   "name": "Andromedian ",
+   "type": "Exotic, composed of some novel substance",
+   "body": "Silver Ball",
+   "lenses": "Faith",
+   "government": "Multipolar Cooperative",
+   "notes": "",
+   "privateNotes": ""
+  },
+  {
+   "name": "Vy",
+   "type": "avian",
+   "body": "Long, sinuous neck; Fur instead of feathers",
+   "lenses": "Collectivity & Wrath",
+   "government": "Multipolar (Monarchy, Tribalism, Oligarchy, Oligarchy)"
+  },
+  {
+   "name": "Koteayvone",
+   "type": "insectile",
+   "body": "Has a chysalis life stage; Always encountered in groups",
+   "lenses": "Tribalism",
+   "government": "Democracy"
+  },
+  {
+   "name": "Ao' 'y",
+   "type": "avian/reptillian",
+   "body": "Sharp feathers; Strong swimmer",
+   "lenses": "Wrath",
+   "government": "Tribalism"
+  }
+ ]
+}
