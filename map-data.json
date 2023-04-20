@@ -1195,7 +1195,7 @@
   {
    "x": 3,
    "y": 3,
-   "name": "Payhichiox",
+   "name": "Payox",
    "planets": [
     {
      "name": "Marhain",
@@ -1240,7 +1240,9 @@
      "type": "planet, 7 moons",
      "name": " III"
     }
-   ]
+   ],
+   "notes": "",
+   "privateNotes": ""
   },
   {
    "x": 3,
@@ -1333,7 +1335,7 @@
   {
    "x": 4,
    "y": 6,
-   "name": "Fareshias",
+   "name": "Freschetta",
    "planets": [
     {
      "name": "Okje",
@@ -1406,7 +1408,9 @@
      "type": "planetoid",
      "name": " VII"
     }
-   ]
+   ],
+   "notes": "",
+   "privateNotes": ""
   },
   {
    "x": 7,
@@ -1474,7 +1478,7 @@
   {
    "x": 5,
    "y": 6,
-   "name": "Suersteruik",
+   "name": "Sauerkraut",
    "planets": [
     {
      "name": "Tugjin",
@@ -1526,12 +1530,14 @@
      "type": "gas giant, 1 moon",
      "name": " VIII"
     }
-   ]
+   ],
+   "notes": "",
+   "privateNotes": ""
   },
   {
    "x": 2,
    "y": 4,
-   "name": "Steheeba",
+   "name": "Sheeba",
    "planets": [
     {
      "name": "Ieiol",
@@ -1582,7 +1588,9 @@
      "type": "gas giant, 8 moons",
      "name": " VI"
     }
-   ]
+   ],
+   "notes": "",
+   "privateNotes": ""
   },
   {
    "x": 2,
